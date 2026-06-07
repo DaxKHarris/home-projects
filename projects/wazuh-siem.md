@@ -42,7 +42,7 @@ Planned agents across all owned devices:
 
 The Jellyfin server sleeps when not in use as part of its power management design. A SIEM must be always-on — any downtime is a blind spot. This is a direct architectural conflict.
 
-The current host is not suitable for Wazuh long term. The correct solution is a dedicated always-on machine. This is a known issue pending a hardware decision.
+The current host is not suitable for Wazuh long term. The correct solution is a dedicated always-on machine. This is a known issue due to limitations of available hardware.
 
 ## Pending
 
